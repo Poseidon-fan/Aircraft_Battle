@@ -8,7 +8,7 @@
 
 玩家可以通过“wasd”键来移动自己的飞机，飞机会自动发射子弹，子弹击中敌机时子弹消失同时敌机减少相应的生命值，当玩家的飞机与敌机相撞时游戏结束。游戏分为普通模式与终极模式两种，分数达到10000分时自动切换到终极模式。
 
-<img src="./example.png" style="zoom:50%;" />
+<img src="https://github.com/Poseidon-fan/-pygame/blob/main/example.png?raw=true" style="zoom:50%;" />
 
 ### 普通模式
 
